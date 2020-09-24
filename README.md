@@ -17,3 +17,5 @@ First of all, you need to provide polyethylene and make a simple boat design tha
 The connection scheme of the project is as follows, it is shown on the breadboard for easy understanding in the diagram, we set up a circuit on pertinax ourselves, you can set up your circuit according to the scheme. Or you can do it with beadboard as in the diagram.
 
 As water splashes while the boat is moving, water enters the boat, so it would be better if you put your electronic circuit in a waterproof bag.
+
+![bluetoothcontrol_bb](https://user-images.githubusercontent.com/71852248/94208765-4c4eab00-fed3-11ea-9d1a-f03d2573c14a.jpg)
